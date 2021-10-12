@@ -27,3 +27,25 @@ table{
     height: 100px;
     width: 100px;
 }
+.Magicas{
+    margin: 0 10cm;
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 2cm;
+    border: 10px solid black
+}
+.Accidentally{
+    margin: 0 10cm;
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 2cm;
+    border: 10px solid black
+}
+.stupid{
+    margin: 0 10cm;
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 2cm;
+    border: 10px solid black
+}
+
