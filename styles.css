@@ -5,7 +5,7 @@ h1{
     background: rgb(122,62,156);
 background: radial-gradient(circle, rgba(122,62,156,0.787500205160189) 0%, rgba(102,61,162,1) 11%, rgba(31,56,185,0.40934894465598737) 50%, rgba(180,29,60,0.5073881603422619) 100%);
 }
-.cajas{
+.fondo{
     background-image: url('imagenes/fondo.jpg');
     background-repeat: no-repeat;
     background-position: center;
@@ -51,4 +51,15 @@ body{
     background: linear-gradient(0deg, rgba(195,34,186,0.42615566734506305) 16%, rgba(180,243,71,0.21327051328343838) 91%, rgba(210,253,45,0.44856463093049714) 100%);
     border: 10px solid black
 }
+footer{
+    font-size: 20px;
+    font-weight: 900;
+    color: black;
+    width: auto;
+    color: white;
+    background: rgb(17,3,17);
+    background: linear-gradient(0deg, rgba(17,3,17,0.25248619955794815) 11%, rgba(180,243,71,0.21327051328343838) 91%, rgba(210,253,45,0.44856463093049714) 100%);
+    text-shadow: 3px 1px 2px black;
+}
+
 
